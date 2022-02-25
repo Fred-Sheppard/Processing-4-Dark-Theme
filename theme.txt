@@ -1,5 +1,5 @@
-# The gradient.top and gradient.bottom lines are used by makeGradient(),
-# so search for makeGradient() calls to see whether they're still in use.
+#Dark Theme for Processing 4
+#by Fred Sheppard
 
 
 ## EditorToolbar ##
